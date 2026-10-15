@@ -1,0 +1,10 @@
+NHIỆM VỤ: THAY NHÂN VẬT TRONG VIDEO
+Video gốc: Baby Shark Dance _ #babyshark Most Viewed Video _ Animal Songs _ PINKFONG Songs for Children.mp4
+Ảnh nhân vật tham chiếu: pngtree-3d-two-happy-childerns-holding-bads-on-transparent-bckground-png-image_16041680.png
+Phong cách: Hoạt hình 3D dễ thương
+Ưu tiên: Ưu tiên giữ nguyên hành động và cốt truyện
+
+YÊU CẦU:
+Chỉ thay nhân vật chính bằng nhân vật trong ảnh tham chiếu. Giữ nguyên bối cảnh, góc máy, thứ tự cảnh, hành động, thời lượng và diễn biến của video gốc. Duy trì khuôn mặt, trang phục, màu sắc và tỷ lệ nhân vật nhất quán giữa các cảnh. Không thêm nhân vật mới, không làm biến dạng tay chân, không tự ý đổi nội dung câu chuyện.
+
+Đầu ra mong muốn: video hoàn chỉnh có nhân vật mới nhất quán, giữ bối cảnh, chuyển động, nhịp cảnh và cốt truyện gốc ở mức cao nhất có thể.
